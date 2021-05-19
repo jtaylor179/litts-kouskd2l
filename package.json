@@ -1,0 +1,15 @@
+{
+  "name": "@wcd/jtaylor179.litts-kouskd2l",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "wcd-cli serve xgxKMeGva6TmCkf6bwxe --open"
+  },
+  "devDependencies": {
+    "wcd-cli": "latest"
+  },
+  "dependencies": {}
+}
